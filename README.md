@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-#### Quick intro: 
 My name is Taha H. Ababou, and I am a Computer Engineer at Boston University with a concentration in Technology Innovation. I'm proficient in programming languages such as C/C++, Angular, Python, PHP, React Native, Swift, Kotlin, TypeScript, Node.js, and AWS, as well as Adobe XD and Photoshop. I'm also fluent in French, Arabic, English, and Spanish. I enjoy playing golf, football (soccer), surfing, movie production, photography, and building software and mechanical projects.
 
 Get to know me more through my personal chatbot that I developed: https://taha.d3p9cjveerhpg.amplifyapp.com/
