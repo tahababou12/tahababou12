@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Once upon a time, I was just an 11-year-old kid with big dreams and an insatiable curiosity for technology. Little did I know, this would be the start of an exhilarating journey to becoming the innovative software engineer I am today.
+
+As I ventured into the mystical realm of computer engineering at Boston University, I tamed the wildest subjects like algorithms and operating systems, crafting diverse programming skills. From Junior Technical Lead at The Society of Scent to Senior Technical Lead at Be Local, I wielded my powers to drive growth and user engagement, managing multicultural teams and optimizing AWS resources with ease.
+
+Away from the world of code, I am a true adventurer, conquering golf courses, riding the waves, and capturing breathtaking moments through my lens. This is my story, and it's only just begun!
+
 <!--
 **tahababou12/tahababou12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
