@@ -1,15 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
-My name is Taha H. Ababou, and I am a Computer Engineer at Boston University with a concentration in Technology Innovation. I'm proficient in programming languages such as C/C++, Angular, Python, PHP, React Native, Swift, Kotlin, TypeScript, Node.js, and AWS, as well as Adobe XD and Photoshop. I'm also fluent in French, Arabic, English, and Spanish. I enjoy playing golf, football (soccer), surfing, movie production, photography, and building software and mechanical projects.
+My passion for technology began when I was 11 years old, and it has never stopped growing. I am currently pursuing a Bachelor's degree in Computer Engineering at Boston University, where I learn to master the latest technologies and develop diverse programming skills.
+
+As the Head of Technology Innovation at LOCAL App, I lead the tech strategy for a $20M company that connects travelers with local experiences. I manage a remote international team, scale the mobile application using React Native, TypeScript, NodeJS, and AWS, and represent the company at major industry events. I have also worked as a Technical Lead and a Full Stack Engineer for various projects, leveraging my skills in Node.js, PHP, and AWS.
+
+I am always eager to explore new challenges and opportunities and to apply my knowledge and creativity to solve real-world problems. I am also an adventurous person who enjoys golfing, surfing, and photography. I believe that technology can make the world a better place, and I am excited to be part of this journey.
 
 Get to know me more through my personal chatbot that I developed: https://taha.d3p9cjveerhpg.amplifyapp.com/
-
-#### Fun bio:
-Once upon a time, I was just an 11-year-old kid with big dreams and an insatiable curiosity for technology. Little did I know, this would be the start of an exhilarating journey to becoming the innovative software engineer I am today.
-
-As I ventured into the mystical realm of computer engineering at Boston University, I tamed the wildest subjects like algorithms and operating systems, crafting diverse programming skills. From Technical Lead at The Society of Scent to Senior Technical Lead at Be Local, I wielded my powers to drive growth and user engagement, managing multicultural teams and optimizing AWS resources with ease.
-
-Away from the world of code, I am a true adventurer, conquering golf courses, riding the waves, and capturing breathtaking moments through my lens. This is my story, and it's only just begun!
 
 <!--
 **tahababou12/tahababou12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
