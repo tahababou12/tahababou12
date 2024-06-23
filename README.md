@@ -7,12 +7,13 @@ My passion for technology began when I was 11 years old, and it has never stoppe
 I am always eager to explore new challenges and opportunities and to apply my knowledge and creativity to solve real-world problems. I am also an adventurous person who enjoys golfing, surfing, and photography. I believe that technology can make the world a better place, and I am excited to be part of this journey. -->
 
 <h1 align="center">Hi 👋, I'm Taha Ababou</h1>
-<h3 align="center">Full Stack Developer from Morocco living his best life in Boston 🇲🇦🇺🇸</h3>
+<!-- <h3 align="center">BU MSSP '25</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahababou12&label=Profile%20views&color=0e75b6&style=flat" alt="tahababou12" /> </p>
 
 
-- 🔭 I’m currently a senior computer engineer undergraduate at Boston University
+- 🔭 Pursuing a M.S. in Statistical Practice at BU
+- 🔭 Graduated from Boston University with a B.S. in Computer Engineering & Concentration in Technology Innovation (2024)
 
 - 🌱 I’m currently learning **Blender, ThreeJs, Next.js, ...**
 
