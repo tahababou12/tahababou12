@@ -15,9 +15,9 @@ I am always eager to explore new challenges and opportunities and to apply my kn
 - 🔭 Pursuing a M.S. in Statistical Practice at BU
 - 🔭 Graduated from Boston University with a B.S. in Computer Engineering & Concentration in Technology Innovation (2024)
 
-- 🌱 I’m currently learning **Blender, ThreeJs, Next.js, ...**
+<!--- 🌱 I’m currently learning **Blender, ThreeJs, Next.js, ...**
 
-- 💬 Ask me about **React/React Native, NodeJs, React Three Fiber**
+ - 💬 Ask me about **React/React Native, NodeJs, React Three Fiber** -->
 
 - 📫 How to reach me **tahababou12@gmail.com**
 
