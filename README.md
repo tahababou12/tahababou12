@@ -23,13 +23,14 @@ I am always eager to explore new challenges and opportunities and to apply my kn
 
 - ⚡ Check out my personal website **[tahaababou.com](https://tahaababou.com)**
 
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tahaababou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahaababou" height="30" width="40" /></a>
 </p>
 
 
-<!-- <h3 align="left">Languages and Tools:</h3>
+ <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
