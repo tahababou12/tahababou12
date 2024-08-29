@@ -17,6 +17,8 @@ I am always eager to explore new challenges and opportunities and to apply my kn
 - 📫 How to reach me **tahababou12@gmail.com**
 - ⚡ Check out my personal website **[tahaababou.com](https://tahaababou.com)**
 
+- 🌱 I’m currently building a new social discovery app combining the best features of Omegle x Houseparty!
+
 <br>
 <!--- 🌱 I’m currently learning **Blender, ThreeJs, Next.js, ...**
 
