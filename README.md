@@ -1,13 +1,11 @@
-<!-- OLD -->
+<div align="center">
 
-<!-- ## Hi there 👋
+ **`Full-Stack Software Engineer`**
 
-My passion for technology began when I was 11 years old, and it has never stopped growing. I am a senior Computer Engineering at Boston University, where I learn to master the latest technologies and develop diverse programs.
-
-I am always eager to explore new challenges and opportunities and to apply my knowledge and creativity to solve real-world problems. I am also an adventurous person who enjoys golfing, surfing, and photography. I believe that technology can make the world a better place, and I am excited to be part of this journey. -->
-
-<h1 align="center">Hi 👋, I'm Taha Ababou</h1>
-<!-- <h3 align="center">BU MSSP '25</h3> -->
+</div>
+<h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Aptos&color=0AB952&size=35&center=true&vCenter=true&width=500&height=70&duration=5500&lines=Hi!+I'm+Taha+Ababou.;Nice+to+meet+you+👋" />
+</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahababou12&label=Profile%20views&color=0e75b6&style=flat" alt="tahababou12" /> </p>
 
