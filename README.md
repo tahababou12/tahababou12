@@ -17,7 +17,15 @@
 
 - ⚡ Check out my personal website **[tahaababou.com](https://tahaababou.com)**
 
-- 🌱 I’m currently building a new social discovery app combining the best features of Omegle x Houseparty!
+- 🌱 I’m currently building:
+    -  **A video social discovery app** using React Native (TypeScript) + Node.js for backend + custom **WebRTC API**
+ 
+    -  **RAG Chatbot** where the user will be capable of talking with
+        - Any files (PDFs, TXT, JSON, CSV)
+        - Videos
+        - URLs (web-scraping)
+        - Entire GitHub repositories (chat with your code!)
+        - Research tool to retrieve IEEE publications
 
 <br>
 
