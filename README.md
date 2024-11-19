@@ -33,4 +33,6 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahababou12&show_icons=true&locale=en" alt="tahababou12" /></p> -->
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tahababou12&" alt="tahababou12" /></p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=tahababou12&theme=dark" alt="GitHub Streak" />
+</p>
