@@ -10,22 +10,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahababou12&label=Profile%20views&color=0e75b6&style=flat" alt="tahababou12" /> </p>
 
 - 🔭 Pursuing a M.S. in Statistical Practice at BU
-
 - 🔭 Graduated from Boston University with a B.S. in Computer Engineering & Concentration in Technology Innovation (2024)
-
 - 📫 How to reach me **tahababou12@gmail.com**
-
 - ⚡ Check out my personal website **[tahaababou.com](https://tahaababou.com)**
-
-- 🌱 I’m currently building:
-    -  **A video social discovery app** using React Native (TypeScript) + Node.js for backend + custom **WebRTC API**
- 
-    -  **RAG Chatbot** where the user will be capable of talking with
-        - Any files (PDFs, TXT, JSON, CSV)
-        - Videos
-        - URLs (web-scraping)
-        - Entire GitHub repositories (chat with your code!)
-        - Research tool to retrieve IEEE publications
+- 🌱 I’m currently building: https://bragai.tech
 
 <br>
 
