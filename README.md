@@ -21,7 +21,7 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahababou12&show_icons=true&locale=en" alt="tahababou12" /></p> -->
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=tahababou12&theme=tokyonight" alt="GitHub Streak" />
-    <img src="https://github-readme-stats-zeta-virid.vercel.app/api?username=tahababou12&show_icons=true&theme=tokyonight">
-</p>
+<div align="center">
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=tahababou12&theme=tokyonight" alt="GitHub Streak" />
+    <img height="180" src="https://github-readme-stats-zeta-virid.vercel.app/api?username=tahababou12&show_icons=true&theme=tokyonight">
+</div>
