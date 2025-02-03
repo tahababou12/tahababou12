@@ -13,7 +13,7 @@
 - 🔭 Graduated from Boston University with a B.S. in Computer Engineering & Concentration in Technology Innovation (2024)
 - 📫 How to reach me **tahababou12@gmail.com**
 - ⚡ Check out my personal website **[tahaababou.com](https://tahaababou.com)**
-- 🌱 I’m currently building: **https://bragai.tech**
+- 🌱 I’m currently building: **https://bragai.dev**
 
 <br>
 
