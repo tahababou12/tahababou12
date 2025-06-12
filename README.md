@@ -12,7 +12,7 @@
 - 🔭 Graduated from Boston University
   - M.S. in Statistical Practice (’25)  
   - B.S. in Computer Engineering, Concentration in Technology Innovation (’24)  
-- 💼 Incoming Software Development Engineer at [Amazon](https://github.com/amzn) in NYC  
+- 💼 Incoming Software Development Engineer at **[Amazon](https://github.com/amzn)** in NYC  
 - 📫 Reach me at **tahababou12@gmail.com**  
 - ⚡ Personal website: **[tahaababou.com](https://tahaababou.com)**  
 - 🌱 Currently building: **https://bragai.dev**
