@@ -9,11 +9,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahababou12&label=Profile%20views&color=0e75b6&style=flat" alt="tahababou12" /> </p>
 
-- 🔭 Pursuing a M.S. in Statistical Practice at BU
-- 🔭 Graduated from Boston University with a B.S. in Computer Engineering & Concentration in Technology Innovation (2024)
-- 📫 How to reach me **tahababou12@gmail.com**
-- ⚡ Check out my personal website **[tahaababou.com](https://tahaababou.com)**
-- 🌱 I’m currently building: **https://bragai.dev**
+- 🔭 Graduated from Boston University
+  - M.S. in Statistical Practice (’25)  
+  - B.S. in Computer Engineering, Concentration in Technology Innovation (’24)  
+- 💼 Incoming Software Development Engineer at Amazon in NYC  
+- 📫 Reach me at **tahababou12@gmail.com**  
+- ⚡ Personal website: **[tahaababou.com](https://tahaababou.com)**  
+- 🌱 Currently building: **https://bragai.dev**
 
 <br>
 
