@@ -16,7 +16,7 @@
   - M.S. in Statistical Practice (’25)  
   - B.S. in Computer Engineering, Concentration in Technology Innovation (’24)  
 - 📫 Reach me at **tahababou12@gmail.com**  
-- ⚡ Personal website: **[tahaababou.com](https://tahaababou.com)**  
+- ⚡ Personal website: **[tahaababou.com](https://tahaababou.com)** (🚧 🛠️)
 
 <br>
 
