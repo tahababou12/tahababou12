@@ -3,11 +3,14 @@
  **`Full-Stack Software Engineer`**
 
 </div>
+
 <h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Aptos&color=0AB952&size=35&center=true&vCenter=true&width=500&height=70&duration=5500&lines=Hi!+I'm+Taha+Ababou.;Nice+to+meet+you+👋" />
 </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahababou12&label=Profile%20views&color=0e75b6&style=flat" alt="tahababou12" /> </p>
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tahababou12/tahababou12/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 - 💼 Software Development Engineer at **[Amazon](https://github.com/amzn)**
 - 🌱 Currently building: **https://bragai.dev**
@@ -17,6 +20,8 @@
   - B.S. in Computer Engineering, Concentration in Technology Innovation (’24)  
 - 📫 Reach me at **tahababou12@gmail.com**  
 - ⚡ Personal website: **[tahaababou.com](https://tahaababou.com)** (🚧 🛠️)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahababou12&label=Profile%20views&color=0e75b6&style=flat" alt="tahababou12" /> </p>
 
 <br>
 
