@@ -18,7 +18,7 @@
 - 🔭 Graduated from Boston University
   - M.S. in Statistical Practice (’25)  
   - B.S. in Computer Engineering, Concentration in Technology Innovation (’24)  
-- 📫 Reach me at **tahababou12@gmail.com**  
+- 📫 Reach me at **taha@bragai.dev**
 - ⚡ Personal website: **[tahaababou.com](https://tahaababou.com)** (🚧 🛠️)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahababou12&label=Profile%20views&color=0e75b6&style=flat" alt="tahababou12" /> </p>
